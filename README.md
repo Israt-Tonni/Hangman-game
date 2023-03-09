@@ -1,2 +1,3 @@
 # Hangman-game
 This game is called "Hangman" and the objective is to guess the letters in a hidden word before the player runs out of attempts.
+The game randomly selects a word from a list and displays it to the player as a series of underscores. The player then guesses letters one at a time, and if the guessed letter is in the word, the corresponding underscores are replaced with the letter. If the guessed letter is not in the word, the player receives an incorrect guess and a part of a "hangman" figure is drawn. If the player correctly guesses all the letters in the word before running out of incorrect guesses, they win the game.
